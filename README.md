@@ -1,3 +1,3 @@
 # DarkMode-CSS-JS
 
-Creating Dark Mode in WebPage using 
+Creating Dark Mode in WebPage using HTML 
